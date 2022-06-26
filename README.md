@@ -31,6 +31,8 @@ http://www.engadget.com/rss.xml
 https://news.softpedia.com/newsRSS/Windows-92.xml
 <br>
 https://news.thewindowsclub.com/feed
+<br>
+https://news.thewindowsclub.com/category/windows/feed
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
