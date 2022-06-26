@@ -44,6 +44,8 @@ https://msreview.net/rss.xml
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
+<br>
+https://www.thesslstore.com/blog/feed
 
 # Psychology
 
