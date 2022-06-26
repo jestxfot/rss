@@ -46,6 +46,8 @@ https://msreview.net/rss.xml
 https://www.zdnet.com/topic/security/rss.xml
 <br>
 https://www.thesslstore.com/blog/feed
+<br>
+https://xakep.ru/tag/windows/feed
 
 # Psychology
 
