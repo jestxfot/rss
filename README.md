@@ -4,6 +4,8 @@ https://www.windowslatest.com/feed
 https://www.windowscentral.com/rss.xml
 <br>
 https://thecommunity.ru/rss.xml
+<br>
+https://feeds.howtogeek.com/HowToGeek
 
 # Psychology
 
