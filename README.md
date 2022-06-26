@@ -82,7 +82,6 @@ https://www.voices.com/clients/animdude#feedbacks
 https://steamcommunity.com/profiles/76561197999919255/posthistory
 
 ### Рэй МакКэффри
-<br>
 Исполнительный продюсер
 <br>
 https://twitter.com/raymccaffrey
