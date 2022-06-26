@@ -48,6 +48,8 @@ https://www.zdnet.com/topic/security/rss.xml
 https://www.thesslstore.com/blog/feed
 <br>
 https://xakep.ru/tag/windows/feed
+<br>
+https://xakep.ru/category/privacy/feed
 
 # Psychology
 
