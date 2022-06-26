@@ -5,7 +5,7 @@ https://www.windowscentral.com/rss.xml
 <br>
 https://thecommunity.ru/rss.xml
 <br>
-https://feeds.howtogeek.com/HowToGeek
+https://www.howtogeek.com/feed
 
 # Psychology
 
