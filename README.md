@@ -50,6 +50,8 @@ https://www.thesslstore.com/blog/feed
 https://xakep.ru/tag/windows/feed
 <br>
 https://xakep.ru/category/privacy/feed
+<br>
+https://xakep.ru/tag/informatsionnaya-bezopasnost/feed
 
 # Psychology
 
