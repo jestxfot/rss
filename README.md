@@ -41,6 +41,8 @@ https://blogs.windows.com/feed
 https://www.comss.ru/rss.php
 <br>
 https://msreview.net/rss.xml
+<br>
+https://thecommunity.ru/rss.xml
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
