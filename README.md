@@ -36,6 +36,8 @@ https://news.thewindowsclub.com/category/windows/feed
 <br>
 https://www.makeuseof.com/feed/tag/windows-news
 <br>
+https://www.pcgamer.com/windows-11
+<br>
 https://www.comss.ru/rss.php
 
 ### Security
