@@ -81,6 +81,14 @@ https://www.voices.com/clients/animdude#feedbacks
 <br>
 https://steamcommunity.com/profiles/76561197999919255/posthistory
 
+### Рэй МакКэффри
+<br>
+Исполнительный продюсер
+<br>
+https://twitter.com/raymccaffrey
+<br>
+https://steamcommunity.com/profiles/76561199188043435/posthistory
+
 ---
 
 https://github.com/maxkorsov/feedbro-ru
