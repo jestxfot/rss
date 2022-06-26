@@ -54,6 +54,8 @@ https://xakep.ru/category/privacy/feed
 https://xakep.ru/tag/informatsionnaya-bezopasnost/feed
 <br>
 https://xakep.ru/tag/paroli-hack/feed
+<br>
+https://www.theverge.com/rss/cyber-security/index.xml
 
 # Psychology
 
