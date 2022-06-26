@@ -1,5 +1,7 @@
 # Windows (IT)
 https://www.windowslatest.com/feed
+<br>
+https://www.windowscentral.com/rss.xml
 
 # Psychology
 
