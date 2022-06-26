@@ -23,6 +23,8 @@ https://windowsreport.com/category/news/feed
 https://www.xda-developers.com/tag/microsoft/feed
 <br>
 https://www.theverge.com/rss/microsoft/index.xml
+<br>
+https://www.onmsft.com/feed
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
