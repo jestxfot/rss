@@ -25,6 +25,8 @@ https://www.xda-developers.com/tag/microsoft/feed
 https://www.theverge.com/rss/microsoft/index.xml
 <br>
 https://www.onmsft.com/feed
+<br>
+http://www.engadget.com/rss.xml
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
