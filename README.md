@@ -21,6 +21,8 @@ https://www.ghacks.net/feed
 https://windowsreport.com/category/news/feed
 <br>
 https://www.xda-developers.com/tag/microsoft/feed
+<br>
+https://www.theverge.com/rss/microsoft/index.xml
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
