@@ -1,5 +1,5 @@
 # IT
-## Windows
+### Windows
 https://www.windowslatest.com/feed
 <br>
 https://www.windowscentral.com/rss.xml
@@ -10,7 +10,7 @@ https://www.howtogeek.com/feed
 <br>
 https://9to5google.com/feed
 
-## Security
+### Security
 https://www.zdnet.com/topic/security/rss.xml
 
 # Psychology
