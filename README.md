@@ -15,6 +15,8 @@ https://feeds.feedburner.com/neowin-main
 https://www.bleepingcomputer.com/feed
 <br>
 https://mspoweruser.com/feed
+<br>
+https://www.ghacks.net/feed
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
