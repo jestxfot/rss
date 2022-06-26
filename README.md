@@ -37,6 +37,8 @@ https://news.thewindowsclub.com/category/windows/feed
 https://www.makeuseof.com/feed/tag/windows-news
 <br>
 https://www.comss.ru/rss.php
+<br>
+https://msreview.net/rss.xml
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
