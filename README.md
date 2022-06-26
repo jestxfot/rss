@@ -6,6 +6,8 @@ https://www.windowscentral.com/rss.xml
 https://thecommunity.ru/rss.xml
 <br>
 https://www.howtogeek.com/feed
+<br>
+https://9to5google.com/feed
 
 # Psychology
 
