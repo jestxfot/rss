@@ -19,6 +19,8 @@ https://mspoweruser.com/feed
 https://www.ghacks.net/feed
 <br>
 https://windowsreport.com/category/news/feed
+<br>
+https://www.xda-developers.com/tag/microsoft/feed
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
