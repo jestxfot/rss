@@ -27,6 +27,8 @@ https://www.theverge.com/rss/microsoft/index.xml
 https://www.onmsft.com/feed
 <br>
 http://www.engadget.com/rss.xml
+<br>
+https://news.softpedia.com/newsRSS/Windows-92.xml
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
