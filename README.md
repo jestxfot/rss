@@ -17,6 +17,8 @@ https://www.bleepingcomputer.com/feed
 https://mspoweruser.com/feed
 <br>
 https://www.ghacks.net/feed
+<br>
+https://windowsreport.com/category/news/feed
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
