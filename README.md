@@ -9,6 +9,8 @@ https://thecommunity.ru/rss.xml
 https://www.howtogeek.com/feed
 <br>
 https://9to5google.com/feed
+<br>
+https://feeds.feedburner.com/neowin-main
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
