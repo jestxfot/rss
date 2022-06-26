@@ -2,6 +2,8 @@
 https://www.windowslatest.com/feed
 <br>
 https://www.windowscentral.com/rss.xml
+<br>
+https://thecommunity.ru/rss.xml
 
 # Psychology
 
