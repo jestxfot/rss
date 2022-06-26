@@ -13,6 +13,8 @@ https://9to5google.com/feed
 https://feeds.feedburner.com/neowin-main
 <br>
 https://www.bleepingcomputer.com/feed
+<br>
+https://mspoweruser.com/feed
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
