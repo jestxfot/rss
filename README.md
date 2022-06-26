@@ -4,8 +4,6 @@ https://www.windowslatest.com/feed
 <br>
 https://www.windowscentral.com/rss.xml
 <br>
-https://thecommunity.ru/rss.xml
-<br>
 https://www.howtogeek.com/feed
 <br>
 https://9to5google.com/feed
