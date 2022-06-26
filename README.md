@@ -33,6 +33,8 @@ https://news.softpedia.com/newsRSS/Windows-92.xml
 https://news.thewindowsclub.com/feed
 <br>
 https://news.thewindowsclub.com/category/windows/feed
+<br>
+https://www.comss.ru/rss.php
 
 ### Security
 https://www.zdnet.com/topic/security/rss.xml
