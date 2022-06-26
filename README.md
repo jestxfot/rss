@@ -52,6 +52,8 @@ https://xakep.ru/tag/windows/feed
 https://xakep.ru/category/privacy/feed
 <br>
 https://xakep.ru/tag/informatsionnaya-bezopasnost/feed
+<br>
+https://xakep.ru/tag/paroli-hack/feed
 
 # Psychology
 
