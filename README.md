@@ -36,6 +36,9 @@ https://www.makeuseof.com/feed/tag/windows-news
 <br>
 https://blogs.windows.com/feed
 <br>
+https://beebom.com/feed
+
+### Russian
 https://www.comss.ru/rss.php
 <br>
 https://msreview.net/rss.xml
