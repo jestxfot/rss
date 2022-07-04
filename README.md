@@ -62,6 +62,9 @@ https://www.theverge.com/rss/cyber-security/index.xml
 <br>
 https://feeds.feedburner.com/TheHackersNews
 
+# Psychology
+https://teledoctor24.ru/articles/psychology
+
 # FNAF
 
 ### SteelWool
