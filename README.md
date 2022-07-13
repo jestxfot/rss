@@ -65,35 +65,6 @@ https://feeds.feedburner.com/TheHackersNews
 # Psychology
 https://teledoctor24.ru/articles/psychology
 
-# FNAF
-
-### SteelWool
-https://www.reddit.com/user/steelwoolstudios
-<br>
-https://www.youtube.com/c/Steelwoolgames/videos
-
-### Scott Cawthon (Скотт Коутон)
-5 детей | 4 июня 1978 г. (43 года)
-<br>
-https://twitter.com/real_scawthon
-<br>
-https://gamejolt.com/@realscawthon/games
-<br>
-https://www.youtube.com/user/animdude/videos
-<br>
-https://www.reddit.com/user/animdude
-<br>
-https://www.voices.com/clients/animdude#feedbacks
-<br>
-https://steamcommunity.com/profiles/76561197999919255/posthistory
-
-### Рэй МакКэффри
-Исполнительный продюсер
-<br>
-https://twitter.com/raymccaffrey
-<br>
-https://steamcommunity.com/profiles/76561199188043435/posthistory
-
 ---
 
 https://github.com/maxkorsov/feedbro-ru
